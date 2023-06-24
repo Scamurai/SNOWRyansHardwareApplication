@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Ryan's Hardware CMDB</description>
+        <device_type>browser</device_type>
+        <hint>Ryan's Hardware CMDB</hint>
+        <name/>
+        <order/>
+        <roles>x_1078178_ryan_hw.cmdb_ci_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 17:48:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d692f7e97632110461f7d100153af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ryan's Hardware Assets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_update_name>sys_app_application_1d692f7e97632110461f7d100153af96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 17:48:09</sys_updated_on>
+        <title>Ryan's Hardware Assets</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</application>
+        <file_path/>
+        <instance_id>62565d63db30fb4091232f17d49619d3</instance_id>
+        <instance_name>dev82180</instance_name>
+        <name>sys_app_application_1d692f7e97632110461f7d100153af96</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description>Ryan's Hardware CMDB</description><device_type>browser</device_type><hint>Ryan's Hardware CMDB</hint><name/><order/><roles>x_1078178_ryan_hw.cmdb_ci_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-24 17:48:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1d692f7e97632110461f7d100153af96</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ryan's Hardware Assets</sys_name><sys_overrides/><sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package><sys_policy/><sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope><sys_update_name>sys_app_application_1d692f7e97632110461f7d100153af96</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-24 17:48:09</sys_updated_on><title>Ryan's Hardware Assets</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>241843392</payload_hash>
+        <record_name>Ryan's Hardware Assets</record_name>
+        <reverted_from/>
+        <source>27f62f7e97632110461f7d100153afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 17:48:09</sys_created_on>
+        <sys_id>9d692f7e97632110461f7d100153af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188ee853dbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 17:48:09</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>d5692f7e1a63211061f7afe78abc2499</update_guid>
+        <update_guid_history>d5692f7e1a63211061f7afe78abc2499:241843392</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ryan's Hardware Assets">0a5b608397a72110461f7d100153af2e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 22:36:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>255f95d25b7a472c8036d68d4aa85d61</sys_id>
+        <sys_metadata>1d692f7e97632110461f7d100153af96</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ryan's Hardware Assets</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_scope_delete display_value="">54414bb3ebc149808fcf62ba7a086d10</sys_scope_delete>
+        <sys_update_name>sys_app_application_1d692f7e97632110461f7d100153af96</sys_update_name>
+        <sys_update_version display_value="sys_app_application_1d692f7e97632110461f7d100153af96">9d692f7e97632110461f7d100153af99</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 22:36:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

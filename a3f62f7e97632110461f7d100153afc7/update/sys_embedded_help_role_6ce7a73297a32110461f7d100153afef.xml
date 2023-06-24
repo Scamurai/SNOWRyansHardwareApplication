@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 17:41:32</sys_created_on>
+        <sys_id>6ce7a73297a32110461f7d100153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ece7a73297a32110461f7d100153afee</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6ce7a73297a32110461f7d100153afef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 17:41:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

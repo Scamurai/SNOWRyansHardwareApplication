@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Ryan's Hardware Assets">1d692f7e97632110461f7d100153af96</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1078178_ryan_hw_cmdb_ci</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 17:48:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd69ef7297a32110461f7d100153afda</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New Asset</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_update_name>sys_app_module_dd69ef7297a32110461f7d100153afda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 21:58:03</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Asset</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</application>
+        <file_path/>
+        <instance_id>62565d63db30fb4091232f17d49619d3</instance_id>
+        <instance_name>dev82180</instance_name>
+        <name>sys_app_module_dd69ef7297a32110461f7d100153afda</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Ryan's Hardware Assets">1d692f7e97632110461f7d100153af96</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1078178_ryan_hw_cmdb_ci</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-24 17:48:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dd69ef7297a32110461f7d100153afda</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Create New Asset</sys_name><sys_overrides/><sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package><sys_policy/><sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope><sys_update_name>sys_app_module_dd69ef7297a32110461f7d100153afda</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-24 21:58:03</sys_updated_on><timeline_page/><title>Create New Asset</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>870858476</payload_hash>
+        <record_name>Create New Asset</record_name>
+        <reverted_from/>
+        <source>27f62f7e97632110461f7d100153afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 21:58:03</sys_created_on>
+        <sys_id>4692240b97672110461f7d100153af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188ef6a07fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 21:58:03</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8e92240b4b67211013df61f7a68f4428</update_guid>
+        <update_guid_history>8e92240b4b67211013df61f7a68f4428:870858476,1169ef7235a3211034706c947e8f44dc:185279596</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New Asset">8e38a48f97672110461f7d100153af1e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 22:22:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>063b1408aab34f71809c42c45022b439</sys_id>
+        <sys_metadata>dd69ef7297a32110461f7d100153afda</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Asset</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_scope_delete display_value="">54414bb3ebc149808fcf62ba7a086d10</sys_scope_delete>
+        <sys_update_name>sys_app_module_dd69ef7297a32110461f7d100153afda</sys_update_name>
+        <sys_update_version display_value="sys_app_module_dd69ef7297a32110461f7d100153afda">4692240b97672110461f7d100153af29</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 22:22:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

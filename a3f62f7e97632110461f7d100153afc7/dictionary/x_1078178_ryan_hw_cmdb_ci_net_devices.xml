@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_netgear" label="Ryan's Network Devices" max_length="40" name="x_1078178_ryan_hw_cmdb_ci_net_devices" type="collection"/>
+</database>

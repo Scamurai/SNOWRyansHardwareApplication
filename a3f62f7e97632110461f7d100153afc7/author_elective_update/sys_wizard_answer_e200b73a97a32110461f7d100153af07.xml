@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Network Devices</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Network Devices</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">d7d388f854302110a866ac4e6131310f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 18:17:11</sys_created_on>
+        <sys_id>e200b73a97a32110461f7d100153af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Devices</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_update_name>sys_wizard_answer_e200b73a97a32110461f7d100153af07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 18:17:11</sys_updated_on>
+        <table/>
+        <target_url>x_1078178_ryan_hw_network_devices.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</application>
+        <file_path/>
+        <instance_id>62565d63db30fb4091232f17d49619d3</instance_id>
+        <instance_name>dev82180</instance_name>
+        <name>sys_wizard_answer_e200b73a97a32110461f7d100153af07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Network Devices</answer><button_label/><dependent_value/><element/><name>Network Devices</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">d7d388f854302110a866ac4e6131310f</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-24 18:17:11</sys_created_on><sys_id>e200b73a97a32110461f7d100153af07</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Network Devices</sys_name><sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package><sys_policy/><sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope><sys_update_name>sys_wizard_answer_e200b73a97a32110461f7d100153af07</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-24 18:17:11</sys_updated_on><table/><target_url>x_1078178_ryan_hw_network_devices.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1734340954</payload_hash>
+        <record_name>Network Devices</record_name>
+        <reverted_from/>
+        <source>3b460e6397132110461f7d100153af6e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-06-14 08:14:59</sys_created_on>
+        <sys_id>54c5d8cb97272110461f7d100153aff2</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>188b8f8e3b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>14c5d8cbb927211039888bcc97f5eff2</update_guid>
+        <update_guid_history>14c5d8cbb927211039888bcc97f5eff2:-1734340954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 21:01:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>3617df5b13d84a74863c3a48e319d5b9</sys_id>
+        <sys_metadata>e200b73a97a32110461f7d100153af07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Devices</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_parent display_value="Base Configuration Item">d7d388f854302110a866ac4e6131310f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_scope_delete display_value="">54414bb3ebc149808fcf62ba7a086d10</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_e200b73a97a32110461f7d100153af07</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_e200b73a97a32110461f7d100153af07">54c5d8cb97272110461f7d100153aff2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 21:01:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

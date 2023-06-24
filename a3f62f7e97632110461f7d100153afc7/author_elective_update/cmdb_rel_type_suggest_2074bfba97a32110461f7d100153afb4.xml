@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_type_suggest">
+    <cmdb_rel_type_suggest action="DELETE">
+        <base_class>x_1078178_ryan_hw_network_devices</base_class>
+        <child>true</child>
+        <cmdb_rel_type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</cmdb_rel_type>
+        <dependent_class>x_1078178_ryan_hw_servers</dependent_class>
+        <parent>false</parent>
+        <relationship>child:1a9cb166f1571100a92eb60da2bce5c5</relationship>
+        <sys_class_name>cmdb_rel_type_suggest</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 18:36:26</sys_created_on>
+        <sys_id>2074bfba97a32110461f7d100153afb4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1078178_ryan_hw_network_devices</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_update_name>cmdb_rel_type_suggest_2074bfba97a32110461f7d100153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 18:45:10</sys_updated_on>
+    </cmdb_rel_type_suggest>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</application>
+        <file_path/>
+        <instance_id>62565d63db30fb4091232f17d49619d3</instance_id>
+        <instance_name>dev82180</instance_name>
+        <name>cmdb_rel_type_suggest_2074bfba97a32110461f7d100153afb4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_type_suggest"><cmdb_rel_type_suggest action="INSERT_OR_UPDATE"><base_class>x_1078178_ryan_hw_network_devices</base_class><child>true</child><cmdb_rel_type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</cmdb_rel_type><dependent_class>x_1078178_ryan_hw_servers</dependent_class><parent>false</parent><relationship>child:1a9cb166f1571100a92eb60da2bce5c5</relationship><sys_class_name>cmdb_rel_type_suggest</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-24 18:36:26</sys_created_on><sys_id>2074bfba97a32110461f7d100153afb4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1078178_ryan_hw_network_devices</sys_name><sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package><sys_policy/><sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope><sys_update_name>cmdb_rel_type_suggest_2074bfba97a32110461f7d100153afb4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-24 18:45:10</sys_updated_on></cmdb_rel_type_suggest></record_update>]]></payload>
+        <payload_hash>-1893192927</payload_hash>
+        <record_name>x_1078178_ryan_hw_network_devices</record_name>
+        <reverted_from/>
+        <source>27f62f7e97632110461f7d100153afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 18:45:10</sys_created_on>
+        <sys_id>a476fbbe97a32110461f7d100153af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188eeb971320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 18:45:10</sys_updated_on>
+        <type>Suggested Relationship</type>
+        <update_guid>ec76fbbeb9a32110a9e35bf42bdb6e45</update_guid>
+        <update_guid_history>ec76fbbeb9a32110a9e35bf42bdb6e45:-1893192927,6474bfba13a32110b3a5557f44fe88b5:-1416256291</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1078178_ryan_hw_network_devices">7c17dc0f97272110461f7d100153af40</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-24 21:07:44</sys_created_on>
+        <sys_db_object display_value="" name="cmdb_rel_type_suggest">cmdb_rel_type_suggest</sys_db_object>
+        <sys_id>0327ef31d5454a6682c90a28d7c570d9</sys_id>
+        <sys_metadata>2074bfba97a32110461f7d100153afb4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1078178_ryan_hw_network_devices</sys_name>
+        <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+        <sys_parent display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+        <sys_scope_delete display_value="">54414bb3ebc149808fcf62ba7a086d10</sys_scope_delete>
+        <sys_update_name>cmdb_rel_type_suggest_2074bfba97a32110461f7d100153afb4</sys_update_name>
+        <sys_update_version display_value="cmdb_rel_type_suggest_2074bfba97a32110461f7d100153afb4">a476fbbe97a32110461f7d100153af46</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-24 21:07:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

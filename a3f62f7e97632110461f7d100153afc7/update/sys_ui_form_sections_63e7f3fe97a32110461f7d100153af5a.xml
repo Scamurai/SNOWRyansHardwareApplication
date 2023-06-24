@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="63e7f3fe97a32110461f7d100153af5a" sys_domain="global" table="x_1078178_ryan_hw_servers" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 18:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3be7f3fe97a32110461f7d100153af61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_servers" name="x_1078178_ryan_hw_servers" sys_domain="global" view="Default view">63e7f3fe97a32110461f7d100153af5a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1078178_ryan_hw_servers" sys_domain="global" view="Default view">23e7f3fe97a32110461f7d100153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 18:51:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 18:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7e7b33297e32110461f7d100153af77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_servers" name="x_1078178_ryan_hw_servers" sys_domain="global" view="Default view">63e7f3fe97a32110461f7d100153af5a</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1078178_ryan_hw_servers" sys_domain="global" view="Default view">b3e7f3fe97a32110461f7d100153af62</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 18:51:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1078178_ryan_hw_servers</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 18:51:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63e7f3fe97a32110461f7d100153af5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1078178_ryan_hw_servers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_63e7f3fe97a32110461f7d100153af5a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 18:51:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7296948b97272110461f7d100153af0c" sys_domain="global" table="x_1078178_ryan_hw_cmdb_ci_net_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b96d80f97272110461f7d100153afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="Key Attributes" display_value="Key Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c796d80f97272110461f7d100153afa4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7296d80f97272110461f7d100153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="Asset Attributes" display_value="Asset Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">3e96d80f97272110461f7d100153af8b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a96d80f97272110461f7d100153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="Discovery Attributes" display_value="Discovery Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">ba96d80f97272110461f7d100153af87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f96d80f97272110461f7d100153afb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="Operational Attributes" display_value="Operational Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">0f96d80f97272110461f7d100153afab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b296d80f97272110461f7d100153af87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="Domain Separation Attributes" display_value="Domain Separation Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7a96948b97272110461f7d100153af0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c396d80f97272110461f7d100153afa4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1078178_ryan_hw_cmdb_ci_net_devices" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7296948b97272110461f7d100153af0c</sys_ui_form>
+            <sys_ui_section caption="More Attributes" display_value="More Attributes" name="x_1078178_ryan_hw_cmdb_ci_net_devices" sys_domain="global" view="2713005f537320100764ddeeff7b1269">7696d80f97272110461f7d100153af9f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1078178_ryan_hw_cmdb_ci_net_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-24 21:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7296948b97272110461f7d100153af0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1078178_ryan_hw_cmdb_ci_net_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ryan's Hardware Assets" source="x_1078178_ryan_hw">a3f62f7e97632110461f7d100153afc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ryan's Hardware Assets">a3f62f7e97632110461f7d100153afc7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7296948b97272110461f7d100153af0c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-24 21:05:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="CMDB - Workspace" name="cmdb_browse">2713005f537320100764ddeeff7b1269</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

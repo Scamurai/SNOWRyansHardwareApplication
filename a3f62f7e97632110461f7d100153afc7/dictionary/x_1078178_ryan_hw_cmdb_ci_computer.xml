@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_computer" label="Ryan's Hardware Assets" max_length="40" name="x_1078178_ryan_hw_cmdb_ci_computer" type="collection"/>
+</database>
